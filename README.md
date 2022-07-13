@@ -1,7 +1,7 @@
 # Light Tail Blog
 
 A minimalistic template to power a simple blogging site using HTML and Tailwind CSS.
-Demo available [here](https://www.prodominik.me/light_tail).
+Demo available [here](https://ur.sulabh.ru/light_tail/).
 
 ## Contact
 
